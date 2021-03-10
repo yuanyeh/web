@@ -1,8 +1,9 @@
 body{
    text-align: center;
+   background-color: #CCCCFF
 }
 .btn{
-  border: solid 3px yellow;
+  border: solid 3px green;
   width: 100px;
   height: 100px;
   display : inline;
